@@ -1,5 +1,6 @@
 channels:
  - defaults
+ - conda-forge
 dependencies:
  - matplotlib
  - numpy
@@ -7,5 +8,4 @@ dependencies:
  - seaborn
  - ipywidgets
  - pillow
- - pip
-   - tqdm
+ - tqdm
