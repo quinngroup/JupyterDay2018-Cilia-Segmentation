@@ -1,0 +1,11 @@
+channels:
+ - defaults
+dependencies:
+ - matplotlib
+ - numpy
+ - scipy
+ - seaborn
+ - ipywidgets
+ - pillow
+ - pip
+   - tqdm
