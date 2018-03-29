@@ -1,5 +1,7 @@
 # Jupyter Day 2018: Cilia Segmentation
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/quinngroup/JupyterDay2018-Cilia-Segmentation/master?filepath=JupyterDayATL-2018.ipynb)
+
 Talk title: *Reproducible Segmentation of Not-Quite-Objects*
 
 Presentation materials for my talk on cilia segmentation for Jupyter Day ATL.
@@ -24,3 +26,14 @@ The other folder is `spq`, which is a module containing some helper code for the
 The easiest way is to click the "launch binder" button at the top of this `README`. That will launch a new tab in your window and spin up this repository as an active Jupyter environment. It may take a few minutes but you should be able to re-run everything in the notebook, even editing to your heart's content.
 
 If you want greater control, you can clone this notebook, make sure you have the prereqs installed (via `environment.yml`), and then simply `jupyter notebook` your way to success.
+
+### Contributing
+
+ - Tweet at me [@SpectralFilter](https://twitter.com/SpectralFilter)
+ - Email me [spq@uga.edu](mailto:spq@uga.edu)
+ - Open up a ticket here, I guess?
+ - Smoke signals are cool too
+
+### License
+
+MIT
